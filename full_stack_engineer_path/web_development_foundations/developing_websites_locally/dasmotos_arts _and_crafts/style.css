@@ -1,0 +1,14 @@
+h1{
+background-image: url('./pattern.jpeg');
+font-size: 95px;
+font-family: Arial;
+font-weight: 700;
+color: rgb(248, 247, 171);
+}
+
+.brushes_header{
+    font-family: Arial;
+    color: white;
+    background-color: rgb(102, 228, 142);
+    font-size: 35px;
+}
