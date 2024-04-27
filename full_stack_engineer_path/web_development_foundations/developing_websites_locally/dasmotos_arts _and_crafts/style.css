@@ -7,8 +7,28 @@ color: rgb(248, 247, 171);
 }
 
 .brushes_header{
-    font-family: Arial;
-    color: white;
     background-color: rgb(102, 228, 142);
+}
+
+.frames_header{
+    background-color: rgb(237, 129, 129);
+}
+
+.paint_header {
+    background-color: rgb(135, 193, 232);
+}
+h2 {
+    color: white;
     font-size: 35px;
+    font-family: Arial;
+}
+
+h3{
+    color: black;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+p { 
+    font-family: Arial;
 }
