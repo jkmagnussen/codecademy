@@ -1,1 +1,1 @@
-Codecademy
+Codecademy - full stack engineer path
