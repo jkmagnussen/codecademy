@@ -1,0 +1,38 @@
+a {
+    color: #2176FF;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.btn {
+    background-color: #2176FF;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    font-family: 'Amatic SC', sans-serif;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #5495ff;
+}
+
+.btn:hover {
+    color: white;
+    background-color: #3b21ff;
+    font-size: 30px;
+}
+
+.btn:active {
+    color: #21e5ff;
+    font-size: 30px;
+}
