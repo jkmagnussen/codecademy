@@ -1,3 +1,5 @@
+Project Requirements:
+
 1. To complete this project, you should have completed the Codecademy lessons covering the CSS box model, display and positioning, colors, and typography. You can use more advanced CSS layout concepts like flexbox, CSS grid, or responsive design, but they won’t be required.
    Project Requirements
 
