@@ -52,7 +52,7 @@ print(coffee_price)
 # Prints "4"
 print(number_of_coffees)
 
-# We create two variables and assign numeric values to them. Then we perform a calculation on them. This doesn’t update the variables! When we update the coffee_price variable and perform the calculations again, they use the updated values for the variable!
+# We create two variables and assign numeric values to them. Then we perform a calculation on them. This doesn’t update the variables! When we update the coffee_price variable and perform the calculations again, they use the updated values for the variable!.
 
 # quilt_width = 8
 # quilt_length = 8
