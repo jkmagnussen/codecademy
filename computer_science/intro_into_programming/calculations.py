@@ -30,7 +30,7 @@ print(25 * 68 + 13 / 28)
 # Changing Numbers
 # ---------------------------
 
-# Variables that are assigned numeric values can be treated the same as the numbers themselves. Two variables can be added together, divided by 2, and multiplied by a third variable without Python distinguishing between the variables and literals (like the number 2 in this example). Performing arithmetic on variables does not change the variable — you can only update a variable using the = sign..
+# Variables that are assigned numeric values can be treated the same as the numbers themselves. Two variables can be added together, divided by 2, and multiplied by a third variable without Python distinguishing between the variables and literals (like the number 2 in this example). Performing arithmetic on variables does not change the variable — you can only update a variable using the = sign
 
 coffee_price = 1.50
 number_of_coffees = 4
@@ -60,3 +60,4 @@ print(number_of_coffees)
 # print(quilt_width * quilt_length)
 
 # Output: 64 
+ 
