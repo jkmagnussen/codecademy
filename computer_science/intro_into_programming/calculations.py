@@ -59,6 +59,6 @@ print(number_of_coffees)
 
 # print(quilt_width * quilt_length)
 
-# Output: 64 
+# Output: 64.
  
 
